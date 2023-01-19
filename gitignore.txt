@@ -1,5 +1,4 @@
 DETAIL_PICTURE_661152_61068379.jpg
-teddy_bear.css
 fonts/teddy_bear.svg
 fonts/teddy_bear.eot
 fonts/teddy_bear.ttf
